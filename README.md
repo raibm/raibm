@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### :two_hearts: Status: In a relationship with Typescript;
+### ⚡ Fun fact: i can't fly.
 <!--
 **raibm/raibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
