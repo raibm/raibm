@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 ### :two_hearts: Status: In a relationship with Typescript;
 ### ⚡ Fun fact: i can't fly.
+-->
 
 <p align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=raibm&show_icons=true&theme=graywhite" /></a>
 </p>
--->
