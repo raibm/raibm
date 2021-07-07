@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src='https://media3.giphy.com/media/avEm9rm3UHXXq636xn/giphy.gif?cid=790b7611b520c15d262aad528fa93d43ea9dfcd8436534cb&rid=giphy.gif&ct=g' />
+    <img src='https://media.giphy.com/media/cuMtz52uwvh3GSSIps/giphy.gif' />
 <!--<a><img src="https://github-readme-stats.vercel.app/api?username=raibm&show_icons=true&theme=graywhite" /></a>-->
 </p>
