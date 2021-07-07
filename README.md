@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=raibm&show_icons=true&theme=graywhite" /></a>
-  <img src='https://github.com/raibm/raibm/edit/master/001.gif' />
 </p>
+  <img src='https://github.com/raibm/raibm/edit/master/001.gif' />
