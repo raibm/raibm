@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a brazilian mage and i can cast codes.
+### I'm just a brazilian mage and i can cast codes.
 <!--
 **raibm/raibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
