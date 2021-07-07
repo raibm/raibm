@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <p align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=raibm&show_icons=true&theme=graywhite" /></a>
 </p>
-  <img src='https://i.pinimg.com/originals/74/36/d8/7436d8afab47dc4058bdcdac9ef4ff24.gif' />
+  <img src='https://media3.giphy.com/media/avEm9rm3UHXXq636xn/giphy.gif?cid=790b7611b520c15d262aad528fa93d43ea9dfcd8436534cb&rid=giphy.gif&ct=g' />
